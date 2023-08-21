@@ -1,0 +1,19 @@
+header{
+    background-color: bisque;
+    height: 200px;
+}
+main{
+    background-color: rgb(224, 0, 19);
+    height: 200px;
+}
+footer{
+    background-color: rgb(29, 104, 66);
+    height: 200px;
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
